@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Hasan 👋
 
-<!--
-**Hasan-J/Hasan-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data practitioner trying to remedy my career 🚑️
 
-Here are some ideas to get you started:
+Currently interested in learning about the cryptic concept of implementing streamlined procedures within the constantly expanding data landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal work
+
+- [Hasan-j/renameit](https://github.com/Hasan-J/renameit)
+
+      A simple cli tool for manually renaming your lake files ♿️
+
+      This was before I realized that the Lakehouse solution exists 
+
+### Open source contributions
+
+- [apache/airflow](https://github.com/apache/airflow)
