@@ -1,6 +1,6 @@
 ## Hi, I'm Hasan 👋
 
-I'm a data practitioner trying to remedy my career 🚑️
+I'm a data practitioner trying to reinvent my career 🚑️
 
 Currently interested in learning about the cryptic concept of implementing streamlined procedures within the constantly expanding data landscape.
 
