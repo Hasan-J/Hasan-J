@@ -1,8 +1,6 @@
 ## Hi, I'm Hasan 👋
 
-I'm a data practitioner trying to reinvent my career 🚑️
-
-Currently interested in learning about the cryptic concept of implementing streamlined procedures within the constantly expanding data landscape.
+I'm a data practitioner that's currently interested in learning about the cryptic concept of implementing streamlined procedures within the constantly expanding data landscape.
 
 ### Personal work
 
